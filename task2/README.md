@@ -1,1 +1,0 @@
-This task is just to ensure the template is pretty much intuitive.
