@@ -1,0 +1,1 @@
+This web page will get current location if user accepts to share location, if he refuse it will asks for country code
